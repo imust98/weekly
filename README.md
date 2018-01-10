@@ -6,4 +6,4 @@ weekly
 
 ## Articles
 
-[见过最好的职业规划](https://github.com/imust98/weekly/blob/master/README.md)
+[见过最好的职业规划](https://github.com/imust98/weekly/blob/master/article/见过最好的职业规划.md)
